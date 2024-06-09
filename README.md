@@ -1,6 +1,6 @@
 # Работа с файлами, DnD
 
-#### [![Build status](https://ci.appveyor.com/api/projects/status/3oi0mhcb5ssb8lcf?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ahj-trello) [[Github Pages](https://ZoomZoom2.github.io/ahj-trello)]
+#### [![Build status](https://ci.appveyor.com/api/projects/status/3oi0mhcb5ssb8lcf?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ahj-trello) [[Github Pages](https://ZoomZoom2.github.io/Ahj-trello)]
 ---
 
 ### Trello
